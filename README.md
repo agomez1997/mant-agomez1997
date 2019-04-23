@@ -1,12 +1,11 @@
-=======
-# mantsoft-fidu-2019
+# mant-agomez1997
 Este un repositorio para la entrega del proyecto practico de mantenimiento de software
 El cual tiene como objetivo crear un programa en Python para generar contraseñas.
 
-#  Function (Tarea asignada)
+#  Objetivo:
 
-Función  generatePassword(),
-no recibe nada y genera una contraseña aleatoria de entre 4 y 16 caracteres que puede incluir minúsculas, mayúsculas, números
+Crear función  generatePassword(),
+Que genere una contraseña aleatoria de entre 4 y 16 caracteres que puede incluir minúsculas, mayúsculas, números
 y caracteres especiales.
 
 #  Ejecución del proyecto:
